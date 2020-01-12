@@ -1,5 +1,7 @@
 # Madness Walkthrough
 
+[Room Link](https://tryhackme.com/room/madness)
+
 Well this is a first for me, isn't it? I really need to stramline my process for making these. This box was a lot of fun for me, and I think I did some things differently, so why not write it down...
 
 Let's start it off as always: nmap  
